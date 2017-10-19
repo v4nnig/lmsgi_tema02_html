@@ -1,6 +1,6 @@
-# Introduccion a los lenguajes de marcas LLSGI-01
+# Introducción a los lenguajes de marcas LLSGI-01
 
-## *Tarea del Tema01*
+## *Taréa del Tema01*
 
 En esta taréa tengo que crear un archivo [RTF](https://es.wikipedia.org/wiki/Rich_Text_Format "rtf wikipedia"), [XML](https://es.wikipedia.org/wiki/Extensible_Markup_Language "xml wikipedia") y [HTML](https://es.wikipedia.org/wiki/HTML "html wikipedia") para luego subirlo a un repositorio en github y luego obtener un enlace de rawgit.
 
