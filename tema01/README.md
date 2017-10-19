@@ -51,7 +51,8 @@ En esta taréa tengo que crear un archivo [RTF](https://es.wikipedia.org/wiki/Ri
   </body>
 </html>
 ```
-* Para comprobar su funcionamiento lo he abierto con **Google Chrome**.
+* Para comprobar su funcionamiento lo podemos ver con [RawGit](https://rawgit.com/v4nnig/ASIR_LMSGI/master/tema01/holamundo.html "hola mundo") y también abriendolo con **Google Chrome**.
 
 ![img](https://i.imgur.com/MXPjYbJ.png "Chrome")
 
+###### *Este trabajo está alojado [Github](https://github.com/v4nnig/ASIR_LMSGI/blob/master/tema01/holamundo.html)*
