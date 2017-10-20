@@ -56,3 +56,9 @@ En esta taréa tengo que crear un archivo [RTF](https://es.wikipedia.org/wiki/Ri
 ![img](https://i.imgur.com/MXPjYbJ.png "Chrome")
 
 ###### *Este trabajo está alojado [Github](https://github.com/v4nnig/ASIR_LMSGI/blob/master/tema01/holamundo.html)*
+
+---
+### *Enlaces de Referencia:*
+
+* [Información sobre el lenguaje Markdown](https://es.wikipedia.org/wiki/Markdown "markdown wikipedia")
+* [Información sobre lenguajes de marcas](https://es.wikipedia.org/wiki/Lenguaje_de_marcado "lenguaje de marcas wikipedia")
