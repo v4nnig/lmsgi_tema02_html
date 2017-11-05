@@ -10,7 +10,11 @@ Para mejorar la compresión acorde a una calidad, a mi entender decente, he redu
 
 Dejo la siguiente captura como muestra.
 
-![captura de photoshop](https://i.imgur.com/DK6t2V1.jpg)
+![captura de photoshop](img/captura_photoshop.jpg)
+
+Por el contrario, utilizando http://tinypng.com he logrado una compresión mas baja.
+
+![captura de tinypng.com](img/tinypng_compresion.png) 
 
 Para la estructura del documento he utilizado las etiquetas semanticas de HTML5.
 
