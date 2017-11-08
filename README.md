@@ -18,6 +18,6 @@ Por el contrario, utilizando http://tinypng.com he logrado una compresión mas b
 
 Para la estructura del documento he utilizado las etiquetas semanticas de HTML5.
 
-La validación del documento se puede verificar en [validator.w3.org](https://validator.w3.org/nu/?doc=https://rawgit.com/v4nnig/ASIR_LMSGI/master/tema02/index.html) y el documento puede verse directamente desde [rawgit](https://rawgit.com/v4nnig/ASIR_LMSGI/master/tema02/index.html).
+La validación del documento se puede verificar en [validator.w3.org](https://validator.w3.org/nu/?doc=https://rawgit.com/v4nnig/lmsgi_tema02_html/master/index.html) y el documento puede verse directamente desde [rawgit](https://rawgit.com/v4nnig/lmsgi_tema02_html/master/index.html).
 
 
